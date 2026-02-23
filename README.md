@@ -2,7 +2,7 @@
 
 I am a Unity game developer with 1 year of experience.
 
-I work confidently with C# and Unity, applying architectural approaches (ECS) and design patterns such as:
+I work confidently with C# and Unity, applying architectural approaches (ECS, MVP) and design patterns such as:
 
 [Singleton, Factory, Observer, State, Strategy, Object Pool, Event Based, Template Method, Entry Point, Services, Service Locator, Dependency Injection, and Scriptable Objects.]
 
